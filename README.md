@@ -11,5 +11,6 @@ Simulate a vending machine:
   - Open terminal
   - Go to project's directory
   - Execute
+  -
 $ composer install
 $ php index.php
