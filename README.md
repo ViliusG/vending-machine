@@ -1,13 +1,15 @@
-#Vending Machine Test
+# Vending Machine Tests
+Simulate a vending machine:
+  - Accept coins
+  - Check for available change
+  - Give change
+  - Check for available items
+  - Sell items
+### To run: 
 
-##Simulate a vending machine:
-  *accept coins
-  *check for change
-  *check for available items
-  *egive change
-  
-To run: pull the project, open terminal, go to projects directory and execute
-*composer install
-*php index.php
-
-you have to have php installed on your system
+  - Pull the project
+  - Open terminal
+  - Go to project's directory
+  - Execute
+$ composer install
+$ php index.php
