@@ -10,6 +10,7 @@ Simulate a vending machine:
   - Pull the project
   - Open terminal
   - Go to project's directory
-  - Execute <br  />
+  - Execute 
+  <br  /><br  /><br  />
 $ composer install<br  />
 $ php index.php
